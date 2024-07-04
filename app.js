@@ -7,9 +7,7 @@ ES2015 Global Constants:
 
 const PI = 3.14
 
-if(true){
-    let PI = 3.14;
-}
+
 
  **Quiz**
 
